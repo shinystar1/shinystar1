@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Shary
+- 👀 I’m interested in equality & coding.
+- 🌱 I’m currently learning DevOps.
+- 💞️ I’m looking to collaborate on projects for the LGBTQ community.
